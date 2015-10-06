@@ -1,0 +1,20 @@
+header {
+    font-family: Cursive;
+    color: blue;
+    font-size: 24px;
+}
+
+body {
+    background-color: #FFE436;
+    color: blue;
+}
+li {
+    list-style-type: circle;
+}
+
+h2 {
+    padding : 25px 5px 25px 5px;
+}
+    
+
+    
